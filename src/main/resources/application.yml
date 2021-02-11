@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: smartquizApi
+jackson:
+  serialization:
+    writeDatesAsTimestamps: false
