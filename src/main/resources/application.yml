@@ -4,3 +4,7 @@ micronaut:
 jackson:
   serialization:
     writeDatesAsTimestamps: false
+
+opennlp:
+  model:
+    sent-model-en: "classpath:opennlp/model/en-sent.bin"
